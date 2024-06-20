@@ -1,0 +1,7 @@
+pandas
+numpy
+autograd
+scikit-learn
+matplotlib
+tqdm
+seaborn
